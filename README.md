@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a first-year M.S. Atmospheric Science student at the University of Illinois Urbana-Champaign. Currently, I am studying the microphysical properties of winter mid-latitude cyclones. Past research topics have included occluded cyclones, lake-effect snow/lightning, and aviation meteorology.
+
 <!--
 **KaitlynJesmonth/KaitlynJesmonth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
