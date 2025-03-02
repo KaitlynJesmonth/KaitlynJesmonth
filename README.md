@@ -1,4 +1,4 @@
-I am a first-year M.S. Atmospheric Science student at the University of Illinois Urbana-Champaign.
+I am a second-year M.S. Atmospheric Science student at the University of Illinois Urbana-Champaign.
 
 Currently, I am studying the microphysical properties of winter mid-latitude cyclones. ❄️ 
 
